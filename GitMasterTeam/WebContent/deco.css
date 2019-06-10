@@ -1,3 +1,14 @@
 h1{
 	color : aqua;
 	}
+	
+#ring{
+	color : brown;
+	background: Beige;
+}
+
+#contra{
+	color: white;
+	background: brown;
+	font-size: 50px;
+}
